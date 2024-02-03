@@ -1,0 +1,7 @@
+.pyc
+.env
+db.sqlite3
+venv/
+
+.idea/
+media/
